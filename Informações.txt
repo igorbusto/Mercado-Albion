@@ -1,0 +1,7 @@
+Sites:
+    Github com essas info https://github.com/gaetanbo/gaetanbo.github.io
+        - Categorais de itens, retorna todas categorias
+            https://gameinfo.albiononline.com/api/gameinfo/items/_itemCategoryTree
+        - Mesma informaçao que tem em "items.json", porem retorna so 1 lista
+            https://gameinfo.albiononline.com/api/gameinfo/items/T2_BAG/data
+        - Tem o json separado por categorias tambem, mas para download, tipo sword, axe e etc
